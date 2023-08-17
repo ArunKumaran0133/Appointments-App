@@ -1,0 +1,118 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.name-first-letter {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: black;
+  font-weight: 700;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+
+.time {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #94a3b8;
+  margin-top: 2px;
+}
+.name-container {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.comment {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: black;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+.comment-name-container {
+  display: flex;
+}
+.like-delete-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.like-container {
+  display: flex;
+  align-items: center;
+}
+
+.like-logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.delete-icon {
+  height: 20px;
+  width: 20px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.hr-line {
+  border-top: 1px solid #cbd2d9;
+}
+
+.item-container {
+  margin-top: 50px;
+}
+
+.liked-text {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.like-text {
+  color: black;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

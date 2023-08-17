@@ -1,0 +1,90 @@
+.bg-container {
+  background-color: white;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 45px;
+  color: #1e293b;
+  margin-bottom: 0px;
+}
+
+.about-ccbp-para {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+}
+
+.input-text {
+  font-family: 'Roboto';
+  height: 35px;
+  border: 1px solid #cbd2d9;
+  color: black;
+  width: 300px;
+  outline: none;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+.input-text-area {
+  font-family: 'Roboto';
+  border: 1px solid #cbd2d9;
+  color: black;
+  width: 300px;
+  outline: none;
+  margin-top: 20px;
+  padding-left: 10px;
+  height: 150px;
+}
+
+.submit-button {
+  font-family: 'Roboto';
+  height: 32px;
+  width: 120px;
+  font-size: 12px;
+  border-radius: 5px;
+  background-color: #0284c7;
+  border-width: 0px;
+  color: white;
+  margin-top: 20px;
+}
+
+.image-comment {
+  width: 500px;
+}
+.comment-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 40px;
+  flex-wrap: wraps;
+}
+
+.hr-line {
+  border-top: 1px solid #cbd2d9;
+}
+
+.comment-count {
+  background-color: #0284c7;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 5px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.comments {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.list-container {
+  list-style: none;
+  padding-left: 0px;
+}
